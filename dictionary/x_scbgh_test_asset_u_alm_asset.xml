@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="alm_asset" label="u_alm_asset" max_length="40" name="x_scbgh_test_asset_u_alm_asset" type="collection">
+        <element display="true" label="Device Name" max_length="255" name="devicename" type="string"/>
+        <element label="Device Number" max_length="100" name="devicenumber" type="string"/>
+        <element attributes="edge_encryption_enabled=true,pdf_cell_type=image" label="Device Image" max_length="40" name="device_image" type="user_image"/>
+        <element label="Device Material Number" max_length="50" name="device_material_number" type="string"/>
+    </element>
+</database>

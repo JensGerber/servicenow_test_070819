@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Gerät hinzufügen">8f75c472db0ff3005526c4c1159619e4</button>
+        <item_parameter display_value="Device Image">8234d2b6dbc337005526c4c1159619b2</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-07 19:23:07</sys_created_on>
+        <sys_id>8a4a2a7adb0737005526c4c1159619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8234d2b6dbc337005526c4c1159619b2</sys_name>
+        <sys_package display_value="Test_Assets" source="x_scbgh_test_asset">2e1122bddb4773005526c4c1159619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_Assets">2e1122bddb4773005526c4c1159619a8</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_8a4a2a7adb0737005526c4c1159619e8</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-07 19:23:07</sys_updated_on>
+        <ui_parameter display_value="Device Image">e30a667adb0737005526c4c1159619a7</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

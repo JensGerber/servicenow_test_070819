@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Gerät ändern">d1328276db8337005526c4c11596194a</button>
+        <description/>
+        <field_name/>
+        <label>Gerät ändern</label>
+        <location>leading_swipe</location>
+        <name>Gerät ändern</name>
+        <order>4</order>
+        <parent>0f92ae31db8773005526c4c1159619fd</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-07 16:28:36</sys_created_on>
+        <sys_id>1c6282f6db8337005526c4c1159619a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gerät ändern</sys_name>
+        <sys_package display_value="Test_Assets" source="x_scbgh_test_asset">2e1122bddb4773005526c4c1159619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_Assets">2e1122bddb4773005526c4c1159619a8</sys_scope>
+        <sys_update_name>sys_sg_button_instance_1c6282f6db8337005526c4c1159619a4</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-07 16:28:36</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+</record_update>

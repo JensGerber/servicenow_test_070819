@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>u_alm_asset</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>u_alm_asset</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Asset" name="Asset">a28d237047622100158b949b6c9a710d</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-07 18:49:20</sys_created_on>
+        <sys_id>b59226b2db0737005526c4c1159619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_alm_asset</sys_name>
+        <sys_package display_value="Test_Assets" source="x_scbgh_test_asset">2e1122bddb4773005526c4c1159619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_Assets">2e1122bddb4773005526c4c1159619a8</sys_scope>
+        <sys_update_name>sys_wizard_answer_b59226b2db0737005526c4c1159619f8</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-07 18:49:20</sys_updated_on>
+        <table/>
+        <target_url>x_scbgh_test_asset_u_alm_asset.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
